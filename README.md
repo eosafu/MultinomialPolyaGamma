@@ -1,2 +1,2 @@
-# MultinomialPolyaGamma
-Bayesian multinomial model with inference based on P ́olya-Gamma augmentation
+
+# Bayesian multinomial model with inference based on P ́olya-Gamma augmentation
