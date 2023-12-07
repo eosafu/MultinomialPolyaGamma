@@ -57,7 +57,6 @@ for (kk in 1:length(SampleSizes)) {
   RNtauMSE=vector("numeric",numbIT)
 
   
-  ## Sample spatial covariate
   q = dim(Q)[1] # Size of spatial effect
   # Fix true parameters
   
