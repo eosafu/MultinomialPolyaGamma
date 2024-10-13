@@ -3,3 +3,5 @@ Statistical inferences from multi-categorical data are often encountered in many
 The proposed model allows for flexible and computationally efficient modeling of the conditional properties of an ordered categorical process and the incorporation of dependencies between the different categories of the outcome. The framework was used to model data derived from the Nigeria Demographic and Health Survey to study the spatial patterns and risk factors of maternal malnutrition in Nigeria. Findings from the analysis could be relevant for designing intervention programs and guiding policy-making, such as in the allocation of limited resources across the country.
 
 ![image](https://github.com/eosafu/MultinomialPolyaGamma/assets/70357973/c5ad14b5-16a8-43b1-a22b-9697d93e4f6b)
+
+The published article is available at https://www.tandfonline.com/doi/full/10.1080/24709360.2024.2398317.
